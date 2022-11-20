@@ -1,6 +1,3 @@
-/*
- * Essa é uma calculadora bem legal!!!
- */
 const Calculadora = {
     _resultado: 0,
     get resultado() {
